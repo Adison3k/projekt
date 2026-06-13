@@ -1,4 +1,4 @@
-# 📚 Bookstore – System Obsługi Księgarni Internetowej
+# System Obsługi Księgarni Internetowej
 
 Pakiet w Pythonie (paradygmat funkcyjny + pandas) do obsługi klientów,
 katalogu e-booków oraz zakupów internetowej księgarni.
