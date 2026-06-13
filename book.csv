@@ -1,0 +1,12 @@
+id,title,author,genre,price,year,available
+1001,Władca Pierścieni,J.R.R. Tolkien,Fantasy,29.99,2001,True
+1002,Harry Potter i Kamień Filozoficzny,J.K. Rowling,Fantasy,24.99,1997,True
+1003,1984,George Orwell,Dystopia,19.99,1949,True
+1004,Zbrodnia i Kara,Fiodor Dostojewski,Klasyka,22.99,1866,True
+1005,Mały Książę,Antoine de Saint-Exupéry,Bajka,14.99,1943,True
+1006,Dune,Frank Herbert,Sci-Fi,27.99,1965,True
+1007,Wiedźmin - Ostatnie Życzenie,Andrzej Sapkowski,Fantasy,26.99,1993,True
+1008,Solaris,Stanisław Lem,Sci-Fi,21.99,1961,True
+1009,diana,autoir,tak,33.0,1992,True
+1010,tytuł,tytił,q,2.0,2000,True
+1011,test,autro,dramat,33.0,2000,True

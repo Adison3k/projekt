@@ -1,0 +1,3 @@
+id,first_name,last_name,email,login,password_hash,registration_date
+1002,Anna,Nowak,anna.nowak@email.com,anowak,5f4dcc3b5aa765d61d8327deb882cf99,2024-02-20
+1003,Piotr,Wiśniewski,piotr.w@email.com,pwisniewski,5f4dcc3b5aa765d61d8327deb882cf99,2024-03-10
